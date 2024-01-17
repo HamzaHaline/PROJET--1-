@@ -1,11 +1,11 @@
-sale_date,product_id,quantity_sold,sale_price,client_id
-01/05/2023,1,5,10.99,1001
-02/05/2023,2,3,15.99,1002
-03/05/2023,3,10,5.99,1003
-04/05/2023,4,7,8.99,1004
-05/05/2023,5,2,12.99,1005
-06/05/2023,6,6,7.99,1006
-07/05/2023,7,9,9.99,1007
-08/05/2023,8,4,6.99,1008
-09/05/2023,9,1,11.99,1009
-10/05/2023,10,8,14.99,1010
+supplier_id,name,address,phone_number,contact_person,email
+1,Supplier A,123 Main St,216464642,John Doe,johndoe@example.com
+4,Supplier D,321 Pine St,216464642,Alice Brown,alicebrown@example.com
+5,Supplier E,654 Cedar St,216464642,Charlie Davis,charliedavis@example.com
+6,Supplier F,987 Walnut Stffsds,216464642,Diana White,dianawhite@example.com
+7,Supplier G,159 Maple Strf,216464642,Eric Black,ericblack@example.com
+8,Supplier H,852 Birch Stxcs,216464642,Fiona Green,fionagreen@example.com
+9,Supplier I,753 Spruce Stgsgf,216464642,Gary Red,garyred@example.com
+10,Supplier J,426 Oakwood St,216464642,Helen Blue,helenblue@example.com
+12,Supplier J,426 Oakwood St,216464642,Helen Blue,helenblue@example.com
+
